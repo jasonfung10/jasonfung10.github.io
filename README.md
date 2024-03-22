@@ -26,6 +26,7 @@ Skills used:
 A project that analyse car sales data and electric price data in the UK to decide the sustainability of setting up electric car rental company.
 Skills used:
 - R
+
 ![Top 10 car model in 2021](https://github.com/jasonfung10/Car_sales_UK_2022/raw/main/Report-V1_files/figure-gfm/unnamed-chunk-8-2.png)
 
 ### [Data Cleaning by SQL](https://github.com/jasonfung10/SQL)
