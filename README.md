@@ -18,7 +18,7 @@ This is a simple data analysis project that collect data from Octopus Energy API
 The weather in thesse 2 months are also collected in terms of temperature and the average wind speed.\
 Skills used:
 - Python
-- Tableau
+- Tableau 
 
 ![Unit rate detials for Jan - Feb 2024](https://github.com/jasonfung10/Octopus-Energy/raw/main/Unit_rate.png)
 ![Unit rate vs weather for Jan - Feb 2024](https://github.com/jasonfung10/Octopus-Energy/raw/main/Weathe_VS_Unit_Rate.png)
